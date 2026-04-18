@@ -1,3 +1,3 @@
-新增 zh_tw 翻譯
+added the french traduction
 
-add zh_tw localization
+"fr_fr.json"
